@@ -1,0 +1,16 @@
+I:\CSharp Projects\Wordle\Wordle\bin\Debug\net7.0\Wordle.exe
+I:\CSharp Projects\Wordle\Wordle\bin\Debug\net7.0\Wordle.deps.json
+I:\CSharp Projects\Wordle\Wordle\bin\Debug\net7.0\Wordle.runtimeconfig.json
+I:\CSharp Projects\Wordle\Wordle\bin\Debug\net7.0\Wordle.dll
+I:\CSharp Projects\Wordle\Wordle\bin\Debug\net7.0\Wordle.pdb
+I:\CSharp Projects\Wordle\Wordle\obj\Debug\net7.0\Wordle.csproj.AssemblyReference.cache
+I:\CSharp Projects\Wordle\Wordle\obj\Debug\net7.0\Wordle.GeneratedMSBuildEditorConfig.editorconfig
+I:\CSharp Projects\Wordle\Wordle\obj\Debug\net7.0\Wordle.AssemblyInfoInputs.cache
+I:\CSharp Projects\Wordle\Wordle\obj\Debug\net7.0\Wordle.AssemblyInfo.cs
+I:\CSharp Projects\Wordle\Wordle\obj\Debug\net7.0\Wordle.csproj.CoreCompileInputs.cache
+I:\CSharp Projects\Wordle\Wordle\obj\Debug\net7.0\Wordle.dll
+I:\CSharp Projects\Wordle\Wordle\obj\Debug\net7.0\refint\Wordle.dll
+I:\CSharp Projects\Wordle\Wordle\obj\Debug\net7.0\Wordle.pdb
+I:\CSharp Projects\Wordle\Wordle\obj\Debug\net7.0\Wordle.genruntimeconfig.cache
+I:\CSharp Projects\Wordle\Wordle\obj\Debug\net7.0\ref\Wordle.dll
+I:\CSharp Projects\Wordle\Wordle\bin\Debug\net7.0\WordleList.txt
